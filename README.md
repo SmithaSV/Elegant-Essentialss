@@ -27,9 +27,8 @@ Technologies Used : Frontend : HTML5,CSS3, React.js Framework.
 ![login](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/d1a0c75c-db4c-4a88-bd06-32d5bf1a8f00)
 ![Contact](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/4f87a1f4-cccb-45a7-a7c2-90ba1163fec6)
 ![Purchase](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/8aab8921-a551-4cd3-be55-2ffb036ef4bd)
-![Reguster](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/fde1a369-1cab-4c70-aecc-3c25b53b59fe)
 ![Wishlist](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/4fc0eea0-da26-450e-9cb2-cbd87d00c050)
 ![product](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/1ac928dd-8425-4065-a135-8969d60a04f6)
 ![booking](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/4fed5e1b-5647-42d8-a80e-6c9540da02e4)
 ![history](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/987b931d-3e2a-4a0e-b1c3-17bac366e3f7)
-
+![regisyter](https://github.com/SmithaSV/Elegant-Essentialss/assets/84849699/745b2979-6c5a-4172-8212-b211bdde7c40)
